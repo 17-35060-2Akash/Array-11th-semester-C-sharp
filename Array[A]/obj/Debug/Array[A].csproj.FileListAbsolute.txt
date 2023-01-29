@@ -1,0 +1,7 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Array[A]\Array[A]\bin\Debug\Array[A].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Array[A]\Array[A]\bin\Debug\Array[A].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Array[A]\Array[A]\bin\Debug\Array[A].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Array[A]\Array[A]\obj\Debug\Array[A].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Array[A]\Array[A]\obj\Debug\Array[A].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Array[A]\Array[A]\obj\Debug\Array[A].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Array[A]\Array[A]\obj\Debug\Array[A].pdb
